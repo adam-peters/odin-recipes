@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(252, 244, 138);
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-style: italic;
+}
