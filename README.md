@@ -1,0 +1,1 @@
+This website is a demonstration of a basic HTML knowledge including elements such as headers, paragraphs, lists, anchors and images.
